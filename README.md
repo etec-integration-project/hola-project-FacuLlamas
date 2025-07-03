@@ -2,6 +2,8 @@
 
 Una aplicación simple para gestionar tu lista de tareas diarias.
 
+> **Nota:** Este proyecto incluye documentación automática que se actualiza con cada Pull Request.
+
 ## Características
 
 - ✅ Agregar nuevas tareas
